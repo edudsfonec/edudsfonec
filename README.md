@@ -16,4 +16,4 @@
 </div>
 
 
-![Snake animation](https://github.com/darknessstonight/darknessstonight/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/darknessstonight/darknessstonight/blob/main/.github/workflows/cobrinha.yml)
