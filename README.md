@@ -1,8 +1,8 @@
 ### Hello World 👋
 
 - 🥇 Vencedora do [Startup Weekend Mar e Portos 2023](https://drive.google.com/file/d/1XnFgbpU4xbvcmISu_0VkFV4RbzE_iUBJ/view)
-- 🖥️ Fascinada por desenvolvimento web e inovação
-- 🚀 Buscando sempre aprender cada dia mais
+- 🖥️ Fascinada por desenvolvimento web e inovação.
+- 🚀 Buscando sempre aprender mais a cada dia.
 
 ### 🛠️ Linguagens e Ferramentas  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,java,spring,figma,py
