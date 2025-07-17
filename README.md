@@ -1,8 +1,5 @@
 ### Hello World 👋
 
-- 🖥️ Fascinada por desenvolvimento web e inovação.
-- 🚀 Buscando sempre aprender mais a cada dia.
-
 ### 🛠️ Linguagens e Ferramentas  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,java,spring,mysql,figma,py,
 )](https://skillicons.dev)
