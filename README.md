@@ -1,12 +1,23 @@
-### Hello World 👋
+# привет, web comrade! Welcome to my cyberspace.
 
-### 🛠️ Linguagens e Ferramentas  
-[![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,java,spring,mysql,figma,py,
-)](https://skillicons.dev)
-          
-##
+I'm a software developer and data analyst, passionate about culture, development and data science.
 
-<div>
-  <a href="https://www.linkedin.com/in/eduarda-fonseca-3a0b44234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+-------
 
+### Summary
+
+```java
+public class UserProfile {
+    String[] languages = {"java", "python", "sql", "php"};
+    String[] frameworks = {"spring", "django", "angular"};
+    String[] databases = {"mysql", "dbeaver", "postgresql"};
+    String[] tools = {"git", "docker", "postman"};
+    String[] interests = {"web_development", "backend_development", "databases"};
+    String[] roles = {"backend_developer", "devops", "analyst"};
+
+    public UserProfile(String name, String city, String country) {
+        this.name = "Eduarda Fonseca";
+        this.city = "São Luís";
+        this.country = "🇧🇷";
+    }
+}
