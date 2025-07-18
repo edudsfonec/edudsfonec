@@ -1,4 +1,4 @@
-# <img align="center" src="./assets/spiderman-spider-web.gif" height="45" /> привет, web comrade! Welcome to my cyberspace.
+# <img align="center" src="./assets/spiderman-spider-web.gif" height="45" /> привет, web comrade! welcome to my cyberspace.
 
 I'm a software developer and data analyst, passionate about culture, development and data science.
 
