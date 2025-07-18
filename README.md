@@ -4,7 +4,7 @@ I'm a software developer and data analyst, passionate about culture, development
 
 -------
 
-### Summary
+### Summary <img align="center" src="./assets/globe.gif" height="30" />
 
 ```java
 public class UserProfile {
