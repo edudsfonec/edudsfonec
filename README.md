@@ -11,7 +11,7 @@ public class UserProfile {
     String[] languages = {"java", "python", "sql", "php"};
     String[] frameworks = {"spring", "django", "angular"};
     String[] databases = {"mysql", "dbeaver", "postgresql"};
-    String[] tools = {"git", "docker", "postman"};
+    String[] tools = {"git", "docker", "postman", "mongodb"};
     String[] interests = {"web_development", "backend_development", "databases"};
     String[] roles = {"backend_developer", "devops", "analyst"};
 
