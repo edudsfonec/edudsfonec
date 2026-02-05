@@ -8,16 +8,16 @@ I'm a software developer and data analyst, passionate about culture, development
 
 ```java
 public class UserProfile {
-    String[] languages = {"java", "python", "sql", "php"};
-    String[] frameworks = {"spring", "django", "angular"};
-    String[] databases = {"mysql", "dbeaver", "postgresql", "mongodb"};
-    String[] tools = {"git", "docker", "postman", "rabbitmq"};
-    String[] interests = {"web_development", "backend_development", "databases"};
-    String[] roles = {"backend_developer", "devops", "analyst"};
+    private List<String> languages = List.of("java", "python", "sql", "php");
+    private List<String> frameworks = List.of("spring", "django", "hibernate");
+    private List<String> databases = List.of("mysql", "dbeaver", "postgresql", "mongodb");
+    private List<String> tools = List.of("git", "docker", "postman", "rabbitmq");
+    private List<String> interests = List.of("web_development", "backend_development", "databases");
+    private List<String> roles = List.of("backend_developer", "devops", "analyst");
 
-    public UserProfile(String name, String city, String country) {
+    public UserProfile(String name, String profile, String country) {
         this.name = "Eduarda Fonseca";
-        this.city = "São Luís";
+        this.profile = "dev";
         this.country = "🇧🇷";
     }
 }
